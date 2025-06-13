@@ -13,7 +13,7 @@ A beautiful, cozy, and minimalist theme for Ableton Live 12, inspired by the **R
 
 3. Launch Ableton Live 12.
 
-4. Go to `Options > Preferences > Look/Feel`.
+4. Go to `Options > Preferences > Theme & Colors`.
 
 5. Select "Rose Pine" from the "Theme" dropdown menu.
 
