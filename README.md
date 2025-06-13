@@ -3,7 +3,7 @@
     <h2 align="center">Rosé Pine for Ableton Live 12</h2>
 </p>
 
-<p align="center">A beautiful, cozy, and minimalist theme for Ableton Live 12, inspired by the **Rose Pine** color palette</p>
+<p align="center">A beautiful, cozy, and minimalist theme for Ableton Live 12, inspired by the Rosé Pine color palette</p>
 
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">
