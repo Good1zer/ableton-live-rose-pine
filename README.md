@@ -19,7 +19,8 @@ A beautiful, cozy, and minimalist theme for Ableton Live 12, inspired by the **R
 
 ## Screenshots
 
-*(Coming soon!)*
+![image](https://github.com/user-attachments/assets/683008e5-4457-4f5b-8072-27804ac1f5f7)
+
 
 ## Credits
 
